@@ -6,8 +6,8 @@
 
 .container {
     border: dashed red;
-    border-top: 5px solid;
-    border-top: 5px solid;
+    border-top: 5px solid purple;
+    border-right: 10px dotted palevioletred;
     font-size: 1.5rem;
     margin: 1.5em;
     /* The margin can be written as shortcut as above to replace below
