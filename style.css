@@ -5,10 +5,8 @@
 }
 
 .container {
-    border: dashed red;
-    border-top: 5px solid purple;
-    border-right: 10px dotted palevioletred;
-    font-size: 1.5rem;
+   border: 10px double red;
+   font-size: 1.5rem;
     margin: 1.5em;
     /* The margin can be written as shortcut as above to replace below
     margin-top: 1.5em;
@@ -17,4 +15,6 @@
     margin-left: 2 em; 
     */
     padding: 1.5em;
+    outline: 5px solid purple;
+    outline-offset: 5px;
 }
