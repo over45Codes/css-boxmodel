@@ -1,23 +1,18 @@
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body {
-    width: 100%;
-}
 
-h1 {
+.container {
     border: 2px dashed red;
-    width: 50%;
-    font-size: 3rem;
-    padding: 0.5em;
-}
-main {
-    font-size: 2rem;
-}
-
-p {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    margin: 1.5em 2em 2em;
+    /* The margin can be written as shortcut as above to replace below
+    margin-top: 1.5em;
+    margin-right: 2em;
+    margin-bottom: 2 em;
+    margin-left: 2 em; 
+    */
+    padding: 1.5em;
 }
