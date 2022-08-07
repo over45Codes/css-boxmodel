@@ -6,13 +6,15 @@
 
 .container {
     border: dashed red;
+    border-top: 5px solid;
+    border-top: 5px solid;
     font-size: 1.5rem;
-    margin: 1.5em 2em 3em 4em;
+    margin: 1.5em;
     /* The margin can be written as shortcut as above to replace below
     margin-top: 1.5em;
     margin-right: 2em;
     margin-bottom: 2 em;
     margin-left: 2 em; 
     */
-    padding: 1.5em 2em 3em 4em;
+    padding: 1.5em;
 }
